@@ -5,7 +5,7 @@ EDUCATION:
 - Washington University in St. Louis    B.S in Computer Science                                                                                  2024-2028
 
 WORK EXPERIENCE:
-- Nomura, Engineering Intern
+- Nomura, Software Engineering Intern
               June 2026 -- Now
 - Soaper LLC, Full-Stack Software Engineering Intern                                                                                              May 2025 -- Aug 2025
   -	Contributed to an Electronic Medical Record (EMR) system using Python, TypeScript and PostgreSQL
